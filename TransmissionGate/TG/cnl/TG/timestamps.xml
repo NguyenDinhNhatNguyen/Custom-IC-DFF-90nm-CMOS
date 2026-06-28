@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!--Created by Custom Compiler (TM), build , on Tue May 19 21:28:15 2026-->
+<file-format name="netlisting-timestamps" version="1.0">
+<module timestamp="912" viewStopList="auCdl" viewSearchList="auCdl schematic symbol" contextID="switched: TransmissionGate TG schematic vl: auCdl schematic symbol sl: auCdl" isSubcircuit="1">
+<parameterizedConnections>
+<connectDefs timestamp="0"/>
+<oaAssignments timestamp="0"/>
+<dbAssignValue timestamp="0"/>
+<dbAssignAssignment timestamp="0"/>
+</parameterizedConnections>
+<parameters timestamp="2"/>
+<lib_parameters timestamp="1"/>
+<LineageParams/>
+<ParentParams/>
+<Terms timestamp="755"/>
+<PortOrder><![CDATA[InOutSS']]></PortOrder>
+</module>
+</file-format>

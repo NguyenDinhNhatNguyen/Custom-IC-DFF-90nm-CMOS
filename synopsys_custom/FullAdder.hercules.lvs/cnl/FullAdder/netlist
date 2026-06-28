@@ -1,0 +1,20 @@
+********************************************************************************
+* Library          : FullAdder
+* Cell             : FullAdder
+* View             : schematic
+* View Search List : auCdl schematic symbol
+* View Stop List   : auCdl
+********************************************************************************
+.subckt FullAdder A B Cin Cout S
+*.PININFO A:I B:I Cin:I Cout:O S:O
+XI20 net57 B net42 NAND2
+XI22 net44 Cin net53 NAND2
+XI25 net53 Cin net51 NAND2
+XI26 net53 net57 Cout NAND2
+XI24 net50 net51 S NAND2
+XI23 net44 net53 net50 NAND2
+XI21 net41 net42 net44 NAND2
+XI19 A B net57 NAND2
+XI18 A net57 net41 NAND2
+.ends FullAdder
+

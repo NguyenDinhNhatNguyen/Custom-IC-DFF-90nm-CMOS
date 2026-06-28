@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!--Created by Custom Compiler (TM), build , on Sat May 23 17:30:35 2026-->
+<file-format version="1.0" name="netlisting-timestamps">
+<module viewStopList="auCdl" isSubcircuit="1" contextID="switched: inv inv schematic vl: auCdl schematic symbol sl: auCdl" timestamp="957" viewSearchList="auCdl schematic symbol">
+<parameterizedConnections>
+<connectDefs timestamp="0"/>
+<oaAssignments timestamp="0"/>
+<dbAssignValue timestamp="0"/>
+<dbAssignAssignment timestamp="0"/>
+</parameterizedConnections>
+<parameters timestamp="18"/>
+<lib_parameters timestamp="5"/>
+<LineageParams/>
+<ParentParams/>
+<Terms timestamp="111"/>
+<PortOrder><![CDATA[INOut]]></PortOrder>
+</module>
+</file-format>

@@ -1,0 +1,51 @@
+Stack Dump: VERSION N-2017.12-SP1-2 CONFIG 4182185 DATE Sat May 23 10:43:05 2026
+Frame 0. /lib64/libc.so.6 ::0x7fea9dded400 + 0x40
+Frame 1. /lib64/libc.so.6 ::0x7fea9ddf9f1f + 0x12f
+Frame 2. libc.so.6: __libc_system + 0x51
+Frame 3. 0x11f9674 SNPSee_d76529b73998e726f3c296bcc5ebe00a4aa77cc51276b8048ac94b3bde2acce6502513da05a2192f696336098f61824fa74ccadf9839fca5bf33f269033fee86575fb6b5c5b513ec + 0x84
+Frame 4. 0x11f96ff SNPSee_d76529b73998e726f3c296bcc5ebe00a4aa77cc51276b8048ac94b3bde2acce6502513da05a2192f2c2fab3a47bba7d4 + 0xf
+Frame 5. /lib64/libc.so.6 ::0x7fea9ddf0ce9 + 0xd9
+Frame 6. /lib64/libc.so.6 ::0x7fea9ddf0d37 + 0x17
+Frame 7. QXcbConnection::processXcbEvents() + 0x4e0
+Frame 8. QObject::event(QEvent*) + 0xc1
+Frame 9. QApplicationPrivate::notify_helper(QObject*, QEvent*) + 0x9c
+Frame 10. QApplication::notify(QObject*, QEvent*) + 0x226
+Frame 11. QCoreApplication::notifyInternal2(QObject*, QEvent*) + 0x108
+Frame 12. QCoreApplicationPrivate::sendPostedEvents(QObject*, int, QThreadData*) + 0x2ca
+Frame 13. QEventDispatcherGlibPrivate::runTimersOnceWithNormalPriority() + 0x23
+Frame 14. libglib-2.0.so.0: g_main_context_dispatch + 0x159
+Frame 15. /lib64/libglib-2.0.so.0 ::0x7feab1989478 + 0x4b8
+Frame 16. libglib-2.0.so.0: g_main_context_iteration + 0x2c
+Frame 17. QEventDispatcherGlib::processEvents(QFlags<QEventLoop::ProcessEventsFlag>) + 0x6a
+Frame 18. QEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>) + 0xea
+Frame 19. QCoreApplication::exec() + 0x8d
+Frame 20. 0x113b243 SNPSee_3cb5a937433b5647dfd0ba220bc88c363f9edc9e424f5618e629fa54920aaa2d42181fc4e419a971bdba91f3b1089c26 + 0xa3
+Frame 21. sae_shell: main + 0x6b
+Frame 22. libc.so.6: __libc_start_main + 0xf5
+Frame 23. /usr/synopsys/customcompiler/N-2017.12-SP1-2/linux64/platform/bin/sae_shell ::0x11306a5 + 0x29
+Stack Dump: VERSION N-2017.12-SP1-2 CONFIG 4182185 DATE Sat May 23 10:43:05 2026
+Frame 0. /lib64/libc.so.6 ::0x7fea9dded400 + 0x40
+Frame 1. libc.so.6: waitpid + 0x67
+Frame 2. /lib64/libc.so.6 ::0x7fea9ddf9f62 + 0x172
+Frame 3. libc.so.6: __libc_system + 0x51
+Frame 4. 0x11f9674 SNPSee_d76529b73998e726f3c296bcc5ebe00a4aa77cc51276b8048ac94b3bde2acce6502513da05a2192f696336098f61824fa74ccadf9839fca5bf33f269033fee86575fb6b5c5b513ec + 0x84
+Frame 5. 0x11f96ff SNPSee_d76529b73998e726f3c296bcc5ebe00a4aa77cc51276b8048ac94b3bde2acce6502513da05a2192f2c2fab3a47bba7d4 + 0xf
+Frame 6. /lib64/libc.so.6 ::0x7fea9ddf0ce9 + 0xd9
+Frame 7. /lib64/libc.so.6 ::0x7fea9ddf0d37 + 0x17
+Frame 8. QXcbConnection::processXcbEvents() + 0x4e0
+Frame 9. QObject::event(QEvent*) + 0xc1
+Frame 10. QApplicationPrivate::notify_helper(QObject*, QEvent*) + 0x9c
+Frame 11. QApplication::notify(QObject*, QEvent*) + 0x226
+Frame 12. QCoreApplication::notifyInternal2(QObject*, QEvent*) + 0x108
+Frame 13. QCoreApplicationPrivate::sendPostedEvents(QObject*, int, QThreadData*) + 0x2ca
+Frame 14. QEventDispatcherGlibPrivate::runTimersOnceWithNormalPriority() + 0x23
+Frame 15. libglib-2.0.so.0: g_main_context_dispatch + 0x159
+Frame 16. /lib64/libglib-2.0.so.0 ::0x7feab1989478 + 0x4b8
+Frame 17. libglib-2.0.so.0: g_main_context_iteration + 0x2c
+Frame 18. QEventDispatcherGlib::processEvents(QFlags<QEventLoop::ProcessEventsFlag>) + 0x6a
+Frame 19. QEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>) + 0xea
+Frame 20. QCoreApplication::exec() + 0x8d
+Frame 21. 0x113b243 SNPSee_3cb5a937433b5647dfd0ba220bc88c363f9edc9e424f5618e629fa54920aaa2d42181fc4e419a971bdba91f3b1089c26 + 0xa3
+Frame 22. sae_shell: main + 0x6b
+Frame 23. libc.so.6: __libc_start_main + 0xf5
+Frame 24. /usr/synopsys/customcompiler/N-2017.12-SP1-2/linux64/platform/bin/sae_shell ::0x11306a5 + 0x29

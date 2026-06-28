@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      itsupport
+HostName                       localhost.localdomain
+ProcessIdentifier              22542
+ProcessCreationTime_UTC        1780035026
+ProcessCreationTime_Readable   Fri 29 May 2026 01:10:26 PM +07 +07
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/itsupport/Desktop/lab1vlsi/Project/DFF/DFF_M_S/symbol/symbol.oa.cdslck
+TimeEditLocked                 Sat 30 May 2026 09:44:54 PM +07 +07

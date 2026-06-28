@@ -1,0 +1,4 @@
+TG { }
+DLatch_3Inv_2TG { TG inv }
+DFF_DLatch_3Inv2TG { inv DLatch_3Inv_2TG }
+inv { }

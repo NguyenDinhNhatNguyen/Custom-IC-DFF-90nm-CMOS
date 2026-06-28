@@ -1,0 +1,8 @@
+DLatch_3Inv_2TG
+	Cell Level Device Counts
+		NMOS[N] = 5
+		PMOS[P] = 5
+
+********  DEVICE EXTRACTION STATS    TOPBLOCK = DLatch_3Inv_2TG  *******
+		NMOS[N] = 5
+		PMOS[P] = 5

@@ -1,0 +1,31 @@
+<module name="vsl: Counter Counter2bit schematic vl: auCdl schematic symbol">
+<scope name="Instance">
+<forward>
+<mapping dst="XI0" src="I0"/>
+<mapping dst="XI1" src="I1"/>
+</forward>
+<reverse>
+<mapping dst="I0" src="XI0"/>
+<mapping dst="I1" src="XI1"/>
+</reverse>
+</scope>
+<scope name="Net">
+<forward/>
+<reverse/>
+</scope>
+<scope name="Terminal">
+<forward>
+<mapping dst="CLK Q0 Q1" src="&lt;termOrder>"/>
+<mapping dst="CLK Q0 Q1" src="&lt;unmappedTermOrder>"/>
+</forward>
+<reverse>
+<mapping dst="&lt;unmappedTermOrder>" src="CLK Q0 Q1"/>
+</reverse>
+</scope>
+<master_instances>
+<instance_header master="JKFF">
+<instance name="I0"/>
+<instance name="I1"/>
+</instance_header>
+</master_instances>
+</module>

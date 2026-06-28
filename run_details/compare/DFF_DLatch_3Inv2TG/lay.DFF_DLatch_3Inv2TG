@@ -1,0 +1,55 @@
+{NETLIST DFF_DLatch_3Inv2TG
+{VERSION 1 0 0}
+
+{CELL DFF_DLatch_3Inv2TG
+    {PORT gnd! vdd! CLK Q D }
+    {INST M1=N {PROP n="N" x=11.635 y=-4.270 Length=0.18 Width=0.36 }
+	{PIN N_46=GATE Q=SRC N_48=DRN }}
+    {INST M8=N {PROP n="N" x=12.715 y=-4.270 Length=0.18 Width=0.36 }
+	{PIN N_36=GATE N_46=SRC gnd!=DRN }}
+    {INST M15=P {PROP n="P" x=-0.265 y=0.170 Length=0.18 Width=1.08 }
+	{PIN N_11=GATE N_7=SRC D=DRN }}
+    {INST M22=P {PROP n="P" x=13.795 y=0.170 Length=0.18 Width=1.08 }
+	{PIN Q=GATE N_64=SRC vdd!=DRN }}
+    {INST M7=N {PROP n="N" x=14.875 y=-4.270 Length=0.18 Width=0.36 }
+	{PIN N_64=GATE N_48=SRC gnd!=DRN }}
+    {INST M14=P {PROP n="P" x=8.765 y=0.170 Length=0.18 Width=1.08 }
+	{PIN N_46=GATE Q=SRC N_7=DRN }}
+    {INST M21=P {PROP n="P" x=5.845 y=0.170 Length=0.18 Width=1.08 }
+	{PIN N_27=GATE N_12=SRC vdd!=DRN }}
+    {INST M6=N {PROP n="N" x=4.765 y=-4.270 Length=0.18 Width=0.36 }
+	{PIN N_7=GATE N_27=SRC gnd!=DRN }}
+    {INST M13=P {PROP n="P" x=11.635 y=0.170 Length=0.18 Width=1.08 }
+	{PIN N_36=GATE Q=SRC N_48=DRN }}
+    {INST M20=P {PROP n="P" x=12.715 y=0.170 Length=0.18 Width=1.08 }
+	{PIN N_36=GATE N_46=SRC vdd!=DRN }}
+    {INST M5=N {PROP n="N" x=6.940 y=-4.270 Length=0.18 Width=0.36 }
+	{PIN N_2=GATE N_36=SRC gnd!=DRN }}
+    {INST M12=N {PROP n="N" x=-1.340 y=-4.270 Length=0.18 Width=0.36 }
+	{PIN CLK=GATE gnd!=SRC N_2=DRN }}
+    {INST M19=P {PROP n="P" x=14.875 y=0.170 Length=0.18 Width=1.08 }
+	{PIN N_64=GATE N_48=SRC vdd!=DRN }}
+    {INST M4=N {PROP n="N" x=2.605 y=-4.270 Length=0.18 Width=0.36 }
+	{PIN N_11=GATE N_7=SRC N_12=DRN }}
+    {INST M11=N {PROP n="N" x=3.685 y=-4.270 Length=0.18 Width=0.36 }
+	{PIN N_2=GATE N_11=SRC gnd!=DRN }}
+    {INST M18=P {PROP n="P" x=4.765 y=0.170 Length=0.18 Width=1.08 }
+	{PIN N_7=GATE N_27=SRC vdd!=DRN }}
+    {INST M3=N {PROP n="N" x=-0.265 y=-4.270 Length=0.18 Width=0.36 }
+	{PIN N_2=GATE N_7=SRC D=DRN }}
+    {INST M10=N {PROP n="N" x=13.795 y=-4.270 Length=0.18 Width=0.36 }
+	{PIN Q=GATE N_64=SRC gnd!=DRN }}
+    {INST M17=P {PROP n="P" x=6.940 y=0.170 Length=0.18 Width=1.08 }
+	{PIN N_2=GATE N_36=SRC vdd!=DRN }}
+    {INST M24=P {PROP n="P" x=-1.340 y=0.170 Length=0.18 Width=1.08 }
+	{PIN CLK=GATE vdd!=SRC N_2=DRN }}
+    {INST M2=N {PROP n="N" x=8.765 y=-4.270 Length=0.18 Width=0.36 }
+	{PIN N_36=GATE Q=SRC N_7=DRN }}
+    {INST M9=N {PROP n="N" x=5.845 y=-4.270 Length=0.18 Width=0.36 }
+	{PIN N_27=GATE N_12=SRC gnd!=DRN }}
+    {INST M16=P {PROP n="P" x=2.605 y=0.170 Length=0.18 Width=1.08 }
+	{PIN N_2=GATE N_7=SRC N_12=DRN }}
+    {INST M23=P {PROP n="P" x=3.685 y=0.170 Length=0.18 Width=1.08 }
+	{PIN N_2=GATE N_11=SRC vdd!=DRN }}
+}
+}

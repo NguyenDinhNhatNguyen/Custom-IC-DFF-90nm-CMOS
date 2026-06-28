@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!--Created by Custom Compiler (TM), build , on Mon Jun  1 03:46:56 2026-->
+<file-format name="netlisting-timestamps" version="1.0">
+<module contextID="switched: Counter Counter2bit schematic vl: auCdl schematic symbol sl: auCdl" viewSearchList="auCdl schematic symbol" isSubcircuit="1" viewStopList="auCdl" timestamp="833">
+<parameterizedConnections>
+<connectDefs timestamp="0"/>
+<oaAssignments timestamp="0"/>
+<dbAssignValue timestamp="0"/>
+<dbAssignAssignment timestamp="0"/>
+</parameterizedConnections>
+<parameters timestamp="2"/>
+<lib_parameters timestamp="1"/>
+<LineageParams/>
+<ParentParams/>
+<Terms timestamp="338"/>
+<PortOrder><![CDATA[CLKQ0Q1]]></PortOrder>
+</module>
+</file-format>

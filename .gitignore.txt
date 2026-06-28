@@ -1,0 +1,16 @@
+# Synopsys Custom Compiler Lock Files & Temp Files
+*.lck
+*.lock
+.vuerc
+prefs
+
+# Simulation, Extraction Runtime & Log Folders
+run_details/
+star/
+synopsys_custom/
+cnl/
+
+# General Log Files
+*.log
+*.out
+*.summary

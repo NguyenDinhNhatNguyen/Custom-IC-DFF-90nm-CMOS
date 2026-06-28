@@ -1,0 +1,16 @@
+********************************************************************************
+* Library          : DLatch
+* Cell             : DLatch_3Inv_2TG
+* View             : schematic
+* View Search List : auCdl schematic symbol
+* View Stop List   : auCdl
+********************************************************************************
+.subckt DLatch_3Inv_2TG D E Q
+*.PININFO D:I E:I Q:O
+Xinv3 net41 net45 inv
+Xinv2 Q net41 inv
+Xinv1 E net35 inv
+Xtg2 net45 Q net35 E TG
+Xtg1 D Q E net35 TG
+.ends DLatch_3Inv_2TG
+

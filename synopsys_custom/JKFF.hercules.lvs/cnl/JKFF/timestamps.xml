@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!--Created by Custom Compiler (TM), build , on Sun May 31 21:58:25 2026-->
+<file-format name="netlisting-timestamps" version="1.0">
+<module contextID="switched: JKFF JKFF schematic vl: auCdl schematic symbol sl: auCdl" viewSearchList="auCdl schematic symbol" isSubcircuit="1" viewStopList="auCdl" timestamp="458">
+<parameterizedConnections>
+<connectDefs timestamp="0"/>
+<oaAssignments timestamp="0"/>
+<dbAssignValue timestamp="0"/>
+<dbAssignAssignment timestamp="0"/>
+</parameterizedConnections>
+<parameters timestamp="2"/>
+<lib_parameters timestamp="1"/>
+<LineageParams/>
+<ParentParams/>
+<Terms timestamp="408"/>
+<PortOrder><![CDATA[CLKJKQQ']]></PortOrder>
+</module>
+</file-format>

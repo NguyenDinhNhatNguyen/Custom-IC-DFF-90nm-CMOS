@@ -1,0 +1,33 @@
+<module name="vsl: inv inv schematic vl: auCdl schematic symbol">
+<scope name="Instance">
+<forward>
+<mapping dst="MPMOS" src="PMOS"/>
+<mapping dst="MNMOS" src="NMOS"/>
+</forward>
+<reverse>
+<mapping dst="PMOS" src="MPMOS"/>
+<mapping dst="NMOS" src="MNMOS"/>
+</reverse>
+</scope>
+<scope name="Net">
+<forward/>
+<reverse/>
+</scope>
+<scope name="Terminal">
+<forward>
+<mapping dst="IN Out" src="&lt;unmappedTermOrder>"/>
+<mapping dst="IN Out" src="&lt;termOrder>"/>
+</forward>
+<reverse>
+<mapping dst="&lt;unmappedTermOrder>" src="IN Out"/>
+</reverse>
+</scope>
+<master_instances>
+<instance_header master="n_4t">
+<instance name="NMOS"/>
+</instance_header>
+<instance_header master="p_4t">
+<instance name="PMOS"/>
+</instance_header>
+</master_instances>
+</module>

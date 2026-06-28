@@ -1,0 +1,15 @@
+********************************************************************************
+* Library          : DFF
+* Cell             : DFF_DLatch_3Inv2TG
+* View             : schematic
+* View Search List : auCdl schematic symbol
+* View Stop List   : auCdl
+********************************************************************************
+.subckt DFF_DLatch_3Inv2TG CLK D Q
+*.PININFO CLK:I D:I Q:O
+XI4 D net13 net7 DLatch_3Inv_2TG
+XI5 net7 net14 Q DLatch_3Inv_2TG
+XI3 CLK net13 inv
+XI2 net13 net14 inv
+.ends DFF_DLatch_3Inv2TG
+

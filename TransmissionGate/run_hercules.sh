@@ -1,0 +1,2 @@
+#!/bin/sh
+cd /home/itsupport/Desktop/lab1vlsi/Project/TransmissionGate; unset TCLLIBPATH; unset TCL_LIBRARY; exec-oa22.04.hercules hercules_oa -f openaccess -i TransmissionGate -b TG -p . -O gdsii -o TG_result.gds -s /home/itsupport/Desktop/lab1vlsi/Project/TransmissionGate/TG/TG.custom_compiler.sp -sf CDL -stb TG /home/itsupport/Desktop/lab1vlsi/Project/TransmissionGate/reference_lvs.lvs.evx > /home/itsupport/Desktop/lab1vlsi/Project/TransmissionGate/stdout.lvs.log 2>&1

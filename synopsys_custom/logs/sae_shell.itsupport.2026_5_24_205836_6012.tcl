@@ -1,0 +1,4 @@
+::sa::_backgroundSaeShell::signalProcessReady 1779631115
+::sa::_backgroundSaeShell::runScript /home/itsupport/simulation/inv,testbench,schematic/history_1/simulation/HSPICE_Parametric_Sweep/HSPICE/parametric/.bg_measurement_script.tcl sa::_resultsDatabase::saeShellProcessingCompletedProc testSuiteName saeSession0 testbenchName HSPICE_Parametric_Sweep resultsDir /home/itsupport/simulation/inv,testbench,schematic/history_1/simulation/HSPICE_Parametric_Sweep/HSPICE/parametric/results testSuiteDir /home/itsupport/simulation/inv,testbench,schematic/history_1/simulation/HSPICE_Parametric_Sweep/HSPICE/parametric databaseName /home/itsupport/simulation/inv,testbench,schematic/history_1/simulation/HSPICE_Parametric_Sweep/HSPICE/parametric/resultsDatabase remoteRun {} testbenchId 1 saveImages true
+::wf::viewerExited
+::sa::_backgroundSaeShell::exit

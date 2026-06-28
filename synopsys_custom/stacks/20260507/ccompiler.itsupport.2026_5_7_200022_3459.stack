@@ -1,0 +1,12 @@
+Stack Dump: VERSION N-2017.12-SP1-2 CONFIG 4182185 DATE Thu May  7 20:00:22 2026
+Frame 0. /lib64/libc.so.6 ::0x7fb579715400 + 0x40
+Frame 1. libc.so.6: __poll + 0x24
+Frame 2. /lib64/libglib-2.0.so.0 ::0x7fb582cb83fc + 0x43c
+Frame 3. libglib-2.0.so.0: g_main_context_iteration + 0x2c
+Frame 4. QEventDispatcherGlib::processEvents(QFlags<QEventLoop::ProcessEventsFlag>) + 0x6a
+Frame 5. QEventLoop::exec(QFlags<QEventLoop::ProcessEventsFlag>) + 0xea
+Frame 6. QCoreApplication::exec() + 0x8d
+Frame 7. 0x183ca54 SNPSee_002365a670bbd5d0a7c56191a475a3ee632fcc3a9fd6c1d60707b94db351293835df6d970cefab6fb6155797a49e5eb7 + 0xc04
+Frame 8. cdesigner: main + 0x74
+Frame 9. libc.so.6: __libc_start_main + 0xf5
+Frame 10. /usr/synopsys/customcompiler/N-2017.12-SP1-2/linux64/platform/bin/cdesigner ::0x182be35 + 0x29

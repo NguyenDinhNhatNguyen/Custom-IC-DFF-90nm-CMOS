@@ -1,0 +1,513 @@
+Parsing option_file: xtract.tech (EX-304)
+Initializing extraction ... (EX-724)
+Reading binary grd file /home/itsupport/Desktop/lab1vlsi/PDK/starrc/reference_90nm_9lm_typ.nxtgrd
+... (EX-135)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(137050,138850)  ; y(-44500,-40900) ideal=4 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(137050,138850)  ; y(-45800,-22550) ideal=85 act_level=106
+         pic_level=2 cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(137050,138850)  ; y(-44500,-40900) ideal=4 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(137050,138850)  ; y(-45800,-22550) ideal=85 act_level=106
+         pic_level=2 cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(137050,138850)  ; y(-3700,7100) ideal=4 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(137050,138850)  ; y(-20250,8400) ideal=85 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(137050,138850)  ; y(-3700,7100) ideal=4 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(137050,138850)  ; y(-20250,8400) ideal=85 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(137050,138850)  ; y(-3700,7100) ideal=4 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(137050,138850)  ; y(-20250,8400) ideal=85 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(137950,137950)  ; y(-42700,-42700) ideal=4 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(137050,138850)  ; y(-45800,-22550) ideal=85 act_level=106
+         pic_level=2 cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(137950,137950)  ; y(-42700,-42700) ideal=4 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(137050,138850)  ; y(-45800,-22550) ideal=85 act_level=106
+         pic_level=2 cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(137950,137950)  ; y(1700,1700) ideal=4 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(137050,138850)  ; y(-20250,8400) ideal=85 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(137950,137950)  ; y(1700,1700) ideal=4 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(137050,138850)  ; y(-20250,8400) ideal=85 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with ngate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(-14300,-12500)  ; y(-45800,8400) ideal=5 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(-14300,-12500)  ; y(-44500,-40900) ideal=5 act_level=40 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with pgate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(-14300,-12500)  ; y(-45800,8400) ideal=5 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(-14300,-12500)  ; y(-3700,7100) ideal=5 act_level=57 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with ngate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(-14300,-12500)  ; y(-45800,8400) ideal=5 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(-13400,-13400)  ; y(-42700,-42700) ideal=5 act_level=40 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with pgate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(-14300,-12500)  ; y(-45800,8400) ideal=5 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(-13400,-13400)  ; y(1700,1700) ideal=5 act_level=57 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(-3550,-1750)  ; y(-3700,7100) ideal=7 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(-3550,-1750)  ; y(-12350,8400) ideal=96 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(-3550,-1750)  ; y(-3700,7100) ideal=7 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(-3550,-1750)  ; y(-12350,8400) ideal=96 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(-3550,-1750)  ; y(-3700,7100) ideal=7 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(-3550,-1750)  ; y(-12350,8400) ideal=96 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(-2650,-2650)  ; y(1700,1700) ideal=7 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(-3550,-1750)  ; y(-12350,8400) ideal=96 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(-2650,-2650)  ; y(1700,1700) ideal=7 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(-3550,-1750)  ; y(-12350,8400) ideal=96 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(25150,26950)  ; y(-44500,-40900) ideal=7 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(25150,26950)  ; y(-45800,-26250) ideal=91 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(25150,26950)  ; y(-44500,-40900) ideal=7 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(25150,26950)  ; y(-45800,-26250) ideal=91 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(26050,26050)  ; y(-42700,-42700) ideal=7 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(25150,26950)  ; y(-45800,-26250) ideal=91 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(26050,26050)  ; y(-42700,-42700) ideal=7 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(25150,26950)  ; y(-45800,-26250) ideal=91 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(-3550,-1750)  ; y(-44500,-40900) ideal=9 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(-3550,-1750)  ; y(-45800,-29350) ideal=92 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(-3550,-1750)  ; y(-44500,-40900) ideal=9 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(-3550,-1750)  ; y(-45800,-29350) ideal=92 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(-2650,-2650)  ; y(-42700,-42700) ideal=9 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(-3550,-1750)  ; y(-45800,-29350) ideal=92 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(-2650,-2650)  ; y(-42700,-42700) ideal=9 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(-3550,-1750)  ; y(-45800,-29350) ideal=92 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(25150,26950)  ; y(-3700,7100) ideal=9 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(25150,26950)  ; y(-12200,8400) ideal=95 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(25150,26950)  ; y(-3700,7100) ideal=9 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(25150,26950)  ; y(-12200,8400) ideal=95 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(25150,26950)  ; y(-3700,7100) ideal=9 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(25150,26950)  ; y(-12200,8400) ideal=95 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(26050,26050)  ; y(1700,1700) ideal=9 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(25150,26950)  ; y(-12200,8400) ideal=95 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(26050,26050)  ; y(1700,1700) ideal=9 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(25150,26950)  ; y(-12200,8400) ideal=95 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(35950,37750)  ; y(-44500,-40900) ideal=9 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(35950,37750)  ; y(-45800,-32900) ideal=84 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(35950,37750)  ; y(-44500,-40900) ideal=9 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(35950,37750)  ; y(-45800,-32900) ideal=84 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(35950,37750)  ; y(-3700,7100) ideal=9 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(35950,37750)  ; y(-12200,8400) ideal=84 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(35950,37750)  ; y(-3700,7100) ideal=9 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(35950,37750)  ; y(-12200,8400) ideal=84 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(35950,37750)  ; y(-3700,7100) ideal=9 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(35950,37750)  ; y(-12200,8400) ideal=84 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(36850,36850)  ; y(-42700,-42700) ideal=9 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(35950,37750)  ; y(-45800,-32900) ideal=84 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(36850,36850)  ; y(-42700,-42700) ideal=9 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(35950,37750)  ; y(-45800,-32900) ideal=84 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(36850,36850)  ; y(1700,1700) ideal=9 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(35950,37750)  ; y(-12200,8400) ideal=84 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(36850,36850)  ; y(1700,1700) ideal=9 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(35950,37750)  ; y(-12200,8400) ideal=84 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(68500,70300)  ; y(-44500,-40900) ideal=9 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(68500,70300)  ; y(-45800,-32900) ideal=90 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(68500,70300)  ; y(-44500,-40900) ideal=9 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(68500,70300)  ; y(-45800,-32900) ideal=90 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(68500,70300)  ; y(-3700,7100) ideal=9 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(68500,70300)  ; y(-30600,8400) ideal=90 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(68500,70300)  ; y(-3700,7100) ideal=9 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(68500,70300)  ; y(-30600,8400) ideal=90 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(68500,70300)  ; y(-3700,7100) ideal=9 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(68500,70300)  ; y(-30600,8400) ideal=90 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(69400,69400)  ; y(-42700,-42700) ideal=9 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(68500,70300)  ; y(-45800,-32900) ideal=90 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(69400,69400)  ; y(-42700,-42700) ideal=9 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(68500,70300)  ; y(-45800,-32900) ideal=90 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(69400,69400)  ; y(1700,1700) ideal=9 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(68500,70300)  ; y(-30600,8400) ideal=90 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(69400,69400)  ; y(1700,1700) ideal=9 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(68500,70300)  ; y(-30600,8400) ideal=90 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(57550,59350)  ; y(-44500,-40900) ideal=13 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(57550,59350)  ; y(-45800,-14050) ideal=86 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(57550,59350)  ; y(-44500,-40900) ideal=13 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(57550,59350)  ; y(-45800,-14050) ideal=86 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(57550,59350)  ; y(-44500,-40900) ideal=13 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(57550,59350)  ; y(-45800,-14050) ideal=86 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(57550,59350)  ; y(-3700,7100) ideal=13 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(57550,59350)  ; y(-11750,8400) ideal=86 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(57550,59350)  ; y(-3700,7100) ideal=13 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(57550,59350)  ; y(-11750,8400) ideal=86 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(57550,59350)  ; y(-3700,7100) ideal=13 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(57550,59350)  ; y(-11750,8400) ideal=86 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(57550,59350)  ; y(-3700,7100) ideal=13 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(57550,59350)  ; y(-11750,8400) ideal=86 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(57550,59350)  ; y(-3700,7100) ideal=13 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(57550,59350)  ; y(-11750,8400) ideal=86 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(58450,58450)  ; y(-42700,-42700) ideal=13 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(57550,59350)  ; y(-45800,-14050) ideal=86 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(58450,58450)  ; y(-42700,-42700) ideal=13 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(57550,59350)  ; y(-45800,-14050) ideal=86 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(58450,58450)  ; y(1700,1700) ideal=13 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(57550,59350)  ; y(-11750,8400) ideal=86 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(58450,58450)  ; y(1700,1700) ideal=13 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(57550,59350)  ; y(-11750,8400) ideal=86 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(86750,88550)  ; y(-44500,-40900) ideal=72 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(86750,88550)  ; y(-45800,-29350) ideal=93 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(86750,88550)  ; y(-44500,-40900) ideal=72 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(86750,88550)  ; y(-45800,-29350) ideal=93 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(86750,88550)  ; y(-44500,-40900) ideal=72 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(86750,88550)  ; y(-45800,-29350) ideal=93 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(87650,87650)  ; y(-42700,-42700) ideal=72 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(86750,88550)  ; y(-45800,-29350) ideal=93 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(87650,87650)  ; y(-42700,-42700) ideal=72 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(86750,88550)  ; y(-45800,-29350) ideal=93 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(115450,117250)  ; y(-3700,7100) ideal=72 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(115450,117250)  ; y(-12200,8400) ideal=98 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(115450,117250)  ; y(-3700,7100) ideal=72 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(115450,117250)  ; y(-12200,8400) ideal=98 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(115450,117250)  ; y(-3700,7100) ideal=72 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(115450,117250)  ; y(-12200,8400) ideal=98 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(116350,116350)  ; y(1700,1700) ideal=72 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(115450,117250)  ; y(-12200,8400) ideal=98 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(116350,116350)  ; y(1700,1700) ideal=72 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(115450,117250)  ; y(-12200,8400) ideal=98 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(126250,128050)  ; y(-44500,-40900) ideal=72 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(126250,128050)  ; y(-45800,-32850) ideal=87 act_level=106
+         pic_level=2 cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(126250,128050)  ; y(-44500,-40900) ideal=72 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(126250,128050)  ; y(-45800,-32850) ideal=87 act_level=106
+         pic_level=2 cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(126250,128050)  ; y(-3700,7100) ideal=72 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(126250,128050)  ; y(-12200,8400) ideal=87 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(126250,128050)  ; y(-3700,7100) ideal=72 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(126250,128050)  ; y(-12200,8400) ideal=87 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(126250,128050)  ; y(-3700,7100) ideal=72 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(126250,128050)  ; y(-12200,8400) ideal=87 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(127150,127150)  ; y(-42700,-42700) ideal=72 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(126250,128050)  ; y(-45800,-32850) ideal=87 act_level=106
+         pic_level=2 cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer ngate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(127150,127150)  ; y(-42700,-42700) ideal=72 act_level=40 pic_level=2
+         cap_level=2 r2= R0,  x(126250,128050)  ; y(-45800,-32850) ideal=87 act_level=106
+         pic_level=2 cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(127150,127150)  ; y(1700,1700) ideal=72 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(126250,128050)  ; y(-12200,8400) ideal=87 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer pgate
+         overlaps with POLS Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(127150,127150)  ; y(1700,1700) ideal=72 act_level=57 pic_level=2
+         cap_level=2 r2= R0,  x(126250,128050)  ; y(-12200,8400) ideal=87 act_level=106 pic_level=2
+         cap_level=3 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with ngate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(35950,37750)  ; y(-45800,-32900) ideal=84 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(35950,37750)  ; y(-44500,-40900) ideal=9 act_level=40 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with ngate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(35950,37750)  ; y(-45800,-32900) ideal=84 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(35950,37750)  ; y(-44500,-40900) ideal=9 act_level=40 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with pgate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(35950,37750)  ; y(-12200,8400) ideal=84 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(35950,37750)  ; y(-3700,7100) ideal=9 act_level=57 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with pgate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(35950,37750)  ; y(-12200,8400) ideal=84 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(35950,37750)  ; y(-3700,7100) ideal=9 act_level=57 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with ngate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(137050,138850)  ; y(-45800,-22550) ideal=85 act_level=106
+         pic_level=2 cap_level=3 r2= R0,  x(137050,138850)  ; y(-44500,-40900) ideal=4 act_level=40
+         pic_level=2 cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with ngate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(137050,138850)  ; y(-45800,-22550) ideal=85 act_level=106
+         pic_level=2 cap_level=3 r2= R0,  x(137050,138850)  ; y(-44500,-40900) ideal=4 act_level=40
+         pic_level=2 cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with pgate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(137050,138850)  ; y(-20250,8400) ideal=85 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(137050,138850)  ; y(-3700,7100) ideal=4 act_level=57 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with pgate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(137050,138850)  ; y(-20250,8400) ideal=85 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(137050,138850)  ; y(-3700,7100) ideal=4 act_level=57 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with ngate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(57550,59350)  ; y(-45800,-14050) ideal=86 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(57550,59350)  ; y(-44500,-40900) ideal=13 act_level=40 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with ngate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(57550,59350)  ; y(-45800,-14050) ideal=86 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(57550,59350)  ; y(-44500,-40900) ideal=13 act_level=40 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with ngate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(57550,59350)  ; y(-45800,-14050) ideal=86 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(57550,59350)  ; y(-44500,-40900) ideal=13 act_level=40 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with pgate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(57550,59350)  ; y(-11750,8400) ideal=86 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(57550,59350)  ; y(-3700,7100) ideal=13 act_level=57 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with pgate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(57550,59350)  ; y(-11750,8400) ideal=86 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(57550,59350)  ; y(-3700,7100) ideal=13 act_level=57 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with pgate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(57550,59350)  ; y(-11750,8400) ideal=86 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(57550,59350)  ; y(-3700,7100) ideal=13 act_level=57 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with pgate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(57550,59350)  ; y(-11750,8400) ideal=86 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(57550,59350)  ; y(-3700,7100) ideal=13 act_level=57 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with ngate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(126250,128050)  ; y(-45800,-32850) ideal=87 act_level=106
+         pic_level=2 cap_level=3 r2= R0,  x(126250,128050)  ; y(-44500,-40900) ideal=72 act_level=40
+         pic_level=2 cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with ngate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(126250,128050)  ; y(-45800,-32850) ideal=87 act_level=106
+         pic_level=2 cap_level=3 r2= R0,  x(126250,128050)  ; y(-44500,-40900) ideal=72 act_level=40
+         pic_level=2 cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with pgate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(126250,128050)  ; y(-12200,8400) ideal=87 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(126250,128050)  ; y(-3700,7100) ideal=72 act_level=57 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with pgate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(126250,128050)  ; y(-12200,8400) ideal=87 act_level=106 pic_level=2
+         cap_level=3 r2= R0,  x(126250,128050)  ; y(-3700,7100) ideal=72 act_level=57 pic_level=2
+         cap_level=2 (EX-78)
+WARNING: Two Overlapping rectangles with different cap_levels and same picture levels Layer POLS
+         overlaps with ngate Suggested Fix in Transistor Level: Use Boolean Not in runset to remove
+         the overlap r1= R0,  x(147850,149650)  ; y(-45800,-14050) ideal=88 act_level=106
+         pic_level=2 cap_level=3 r2= R0,  x(147850,149650)  ; y(-44500,-40900) ideal=101
+         act_level=40 pic_level=2 cap_level=2 (EX-78)
+Suppression: Message (EX-78) suppressed beyond 100 times
+Extracted 2840 capacitors, 3646 resistors, 2243 nodes
+Reduced to 1237 nodes,  (44.8506%)
+Reduced to 1248 resistors,  (65.7707%)
+Increased the number of caps to 2849 capacitors,  (keep nodes on a skip polygons?)
+  
+xTractor      Elp=00:00:01 Cpu=00:00:00 Usr=0.2    Sys=0.1    Mem=356.3 
+  
+Done          Elp=00:00:01 Cpu=00:00:00 Usr=0.2    Sys=0.1    Mem=356.3 

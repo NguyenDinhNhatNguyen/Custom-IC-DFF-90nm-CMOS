@@ -1,0 +1,3 @@
+N::N { }
+DFF_DLatch_3Inv2TG::DFF_DLatch_3Inv2TG { P::P N::N }
+P::P { }
