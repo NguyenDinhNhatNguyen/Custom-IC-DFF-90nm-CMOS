@@ -1,3 +1,0 @@
-::sa::_backgroundSaeShell::signalProcessReady 1778628824
-::sa::_backgroundSaeShell::runScript /home/itsupport/simulation/FullAdder,FullAdder_tb,config/history_1/simulation/HSPICE_fa/HSPICE/nominal/.bg_measurement_script.tcl sa::_resultsDatabase::saeShellProcessingCompletedProc testSuiteName saeSession5 testbenchName HSPICE_fa resultsDir /home/itsupport/simulation/FullAdder,FullAdder_tb,config/history_1/simulation/HSPICE_fa/HSPICE/nominal/results testSuiteDir /home/itsupport/simulation/FullAdder,FullAdder_tb,config/history_1/simulation/HSPICE_fa/HSPICE/nominal databaseName /home/itsupport/simulation/FullAdder,FullAdder_tb,config/history_1/simulation/HSPICE_fa/HSPICE/nominal/resultsDatabase remoteRun {} testbenchId 1 saveImages true
-::sa::_backgroundSaeShell::exit

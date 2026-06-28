@@ -1,3 +1,0 @@
-::sa::_backgroundSaeShell::signalProcessReady 1780155230
-::sa::_backgroundSaeShell::runScript /home/itsupport/simulation/JKFF,tb_JKFF,config/history_1/simulation/HSPICE_postlayout/HSPICE/nominal/.bg_measurement_script.tcl sa::_resultsDatabase::saeShellProcessingCompletedProc testSuiteName saeSession9 testbenchName HSPICE_postlayout resultsDir /home/itsupport/simulation/JKFF,tb_JKFF,config/history_1/simulation/HSPICE_postlayout/HSPICE/nominal/results testSuiteDir /home/itsupport/simulation/JKFF,tb_JKFF,config/history_1/simulation/HSPICE_postlayout/HSPICE/nominal databaseName /home/itsupport/simulation/JKFF,tb_JKFF,config/history_1/simulation/HSPICE_postlayout/HSPICE/nominal/resultsDatabase remoteRun {} testbenchId 1 saveImages true
-::wf::viewerExited

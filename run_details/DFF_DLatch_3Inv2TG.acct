@@ -1,8 +1,0 @@
-DFF_DLatch_3Inv2TG
-	Cell Level Device Counts
-		NMOS[N] = 12
-		PMOS[P] = 12
-
-********  DEVICE EXTRACTION STATS    TOPBLOCK = DFF_DLatch_3Inv2TG  *******
-		NMOS[N] = 12
-		PMOS[P] = 12
