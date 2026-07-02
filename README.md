@@ -1,7 +1,6 @@
 # 90nm Custom IC Design: D-FlipFlop using D-Latch
 
 ![Architecture](https://img.shields.io/badge/Architecture-90nm%20CMOS-blue.svg)
-![Language](https://img.shields.io/badge/Language-Verilog%20HDL-green.svg)
 ![Performance](https://img.shields.io/badge/Fmax-5.65%20GHz-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 
